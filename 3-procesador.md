@@ -10,7 +10,7 @@ Asignar núcleos de CPU específicos:
 ```
 
 **¿Como saber el numero de procesadores virtuales que tiene una máquina?**
-## COMPLETAR
+Para saber el número de procesadores virtuales de una máquina, se puede usar herramientas como el Administrador de tareas (en Windows) o la Información del sistema. Si se administra una máquina virtual se puede usar el siguiente comando en PowerShell para ver la cantidad de procesadores virtuales de todas las máquinas virtuales en un host local: Get-VMProcessor -VMName *
 
 ## Ejemplos
 _Puedes copiar y ejecutar directamente cada uno de los comandos_
