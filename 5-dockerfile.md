@@ -107,7 +107,8 @@ docker build -t <nombre imagen>:<tag> -f <ruta y nombre del Dockerfile> .
 ```
 
 ## Por ejemplo
+```
 docker build -t imagen:1.0 -f Dockerfile-custom .
-
+```
 
 
